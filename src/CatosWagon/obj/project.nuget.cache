@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0vFc762gvVs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\magni\\Documents\\BotsnCoding\\Valheim\\CatosWagon\\src\\CatosWagon\\CatosWagon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\magni\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\magni\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

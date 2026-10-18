@@ -1,0 +1,9 @@
+C:\Users\magni\Documents\BotsnCoding\Valheim\CatosWagon\src\CatosWagon\bin\Release\net48\net48\CatosWagon.dll
+C:\Users\magni\Documents\BotsnCoding\Valheim\CatosWagon\src\CatosWagon\bin\Release\net48\net48\CatosWagon.pdb
+C:\Users\magni\Documents\BotsnCoding\Valheim\CatosWagon\src\CatosWagon\obj\Release\net48\CatosWagon.csproj.AssemblyReference.cache
+C:\Users\magni\Documents\BotsnCoding\Valheim\CatosWagon\src\CatosWagon\obj\Release\net48\CatosWagon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magni\Documents\BotsnCoding\Valheim\CatosWagon\src\CatosWagon\obj\Release\net48\CatosWagon.AssemblyInfoInputs.cache
+C:\Users\magni\Documents\BotsnCoding\Valheim\CatosWagon\src\CatosWagon\obj\Release\net48\CatosWagon.AssemblyInfo.cs
+C:\Users\magni\Documents\BotsnCoding\Valheim\CatosWagon\src\CatosWagon\obj\Release\net48\CatosWagon.csproj.CoreCompileInputs.cache
+C:\Users\magni\Documents\BotsnCoding\Valheim\CatosWagon\src\CatosWagon\obj\Release\net48\CatosWagon.dll
+C:\Users\magni\Documents\BotsnCoding\Valheim\CatosWagon\src\CatosWagon\obj\Release\net48\CatosWagon.pdb
