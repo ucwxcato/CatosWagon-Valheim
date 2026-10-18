@@ -7,3 +7,4 @@ C:\Users\magni\Documents\BotsnCoding\Valheim\CatosWagon\src\CatosWagon\obj\Relea
 C:\Users\magni\Documents\BotsnCoding\Valheim\CatosWagon\src\CatosWagon\obj\Release\net48\CatosWagon.csproj.CoreCompileInputs.cache
 C:\Users\magni\Documents\BotsnCoding\Valheim\CatosWagon\src\CatosWagon\obj\Release\net48\CatosWagon.dll
 C:\Users\magni\Documents\BotsnCoding\Valheim\CatosWagon\src\CatosWagon\obj\Release\net48\CatosWagon.pdb
+C:\Users\magni\Documents\BotsnCoding\Valheim\CatosWagon\src\CatosWagon\obj\Release\net48\CatosWagon.sourcelink.json

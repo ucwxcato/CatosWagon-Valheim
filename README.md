@@ -2,6 +2,8 @@
 
 CatosWagon adds two decorative market wagons to Valheim's Hammer menu. Use them for a roadside stall, a market square, or a camp that needs one more piece of scenery.
 
+![CatosWagon market stall](https://raw.githubusercontent.com/ucwxcato/CatosWagon-Valheim/main/Assets/wagon-showcase.png)
+
 ## Pieces
 
 Open the Hammer and choose the **Catos Wagon** category.

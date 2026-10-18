@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CatosWagon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+441d35bec1043ae9cdb9a9898d2c5ec5a4b683cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CatosWagon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CatosWagon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
